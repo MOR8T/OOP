@@ -1,7 +1,14 @@
 # OOP
 #
 ## Encapsulation
-#### Encapsulation is the bundling of data and the methods that act on that data such that access to that data is restricted from outside the bundle, or as Alan Kay describes it, “local retention and protection and hiding of state-process.” In OOP, that means that an object stores its state privately, and only the object’s methods have access to change it.
+#### Инкапсуляция — это объединение данных и методов, которые воздействуют на эти данные таким образом, что доступ к этим данным ограничивается извне, или, как описывает это Алан Кей, «локальное сохранение, защита и сокрытие состояния-процесса». В ООП это означает, что объект хранит свое состояние конфиденциально, и только методы объекта имеют доступ к его изменению.
 ![](./img/img.jpeg)
 #
-## 
+## Polymorphism
+#### Полиморфизм — возможность написать одну функцию, которая обрабатывает множество типов данных — является фундаментальной формой абстракции. Действительно, абстракция и полиморфизм, рассматриваемые абстрактно, описывают одно и то же. А поскольку очевидно, что существует много видов абстракций, неудивительно, что существует много видов полиморфизма.
+##### Параметр позапросу
+![](./img/img2.jpg)
+![](./img/img3.jpg)
+##### Данные разных классов
+![](./img/img1.jpg)
+![](./img/img4.jpg)
